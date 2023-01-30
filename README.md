@@ -51,8 +51,8 @@ Reference:
 RKJNT can be built by cloning the repository and then running make:
 
 ```
-git clone https://github.com/0xr3v/Revised-King-James-New-Testament_RKJNT_.git
-cd Revised-King-James-New-Testament_RKJNT_
+git clone https://github.com/0xr3v/RKJNT.git
+cd RKJNT
 make
 ```
 
