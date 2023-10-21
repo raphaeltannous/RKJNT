@@ -1,6 +1,6 @@
 # Revised King James New Testament (RKJNT)
 
-![Image](https://raw.githubusercontent.com/0xR3V/screenshots/main/Bibles/RKJVNT-terminal.jpg)
+![Image](https://raw.githubusercontent.com/rofe33/screenshots/main/Bibles/RKJVNT-terminal.jpg)
 
 Read the Word of God from your terminal.
 
