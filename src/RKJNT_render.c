@@ -9,7 +9,7 @@
 #include "RKJNT_match.h"
 #include "RKJNT_render.h"
 
-#define ESC_BOLD "\033[1m"
+#define ESC_BOLD "\033[1;97m"
 #define ESC_UNDERLINE "\033[4m"
 #define ESC_RESET "\033[m"
 
