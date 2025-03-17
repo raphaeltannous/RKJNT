@@ -1,7 +1,5 @@
 # Revised King James New Testament (RKJNT)
 
-![Image](https://raw.githubusercontent.com/rofe33/screenshots/main/Bibles/RKJVNT-terminal.jpg)
-
 Read the Word of God from your terminal.
 
 ## Usage
@@ -51,14 +49,14 @@ Reference:
 RKJNT can be built by cloning the repository and then running make:
 
 ```
-git clone https://github.com/rofe33/RKJNT.git
+git clone https://github.com/raphaeltannous/RKJNT.git
 cd RKJNT
 make
 ```
 
 ## License
 
-The [code](https://github.com/rofe33/kjv-layeh) is under the `Public Domain` License.
+The [code](https://github.com/raphaeltannous/kjv-layeh) is under the `Public Domain` License.
 
 The Bible is under:
 
